@@ -2,16 +2,19 @@
 layout: home
 
 hero:
-  name: "My VitePress Site"
-  text: "A Modern Documentation Site"
-  tagline: Built with VitePress 1.5.0
+  name: "稀有实验室"
+  text: "nothing nobody"
+  tagline: Welcome to xiyulabs
+  image:
+    src: /dog.png
+    alt: Logo
   actions:
     - theme: brand
-      text: Get Started
-      link: /markdown-examples
+      text: 订阅频道
+      link: https://t.me/xiyulabs
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/your-github-account/my-vitepress-site
+      text: 关注推特
+      link: https://x.com/ohxiyu
 
 features:
   - icon: 📝

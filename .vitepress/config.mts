@@ -1,17 +1,18 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "My VitePress Site",
-  description: "A VitePress Site",
+  title: "xiyulabs",
+  description: "nothing nobody",
   themeConfig: {
-    // 站点标题
-    siteTitle: 'My Docs',
+    // 站点标题和 Logo
+    siteTitle: 'xiyulabs',
+    logo: '/logo.png',
     
     // 导航菜单
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
-      { text: 'API', link: '/api-examples' }
+      { text: 'Blog', link: 'https://xiyu.im' }
     ],
 
     // 侧边栏
@@ -33,12 +34,7 @@ export default defineConfig({
     // 页脚
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024-present Your Name'
-    },
-
-    // 搜索
-    search: {
-      provider: 'local'
+      copyright: 'Copyright © 2024-present xiyulabs'
     }
   }
 })
