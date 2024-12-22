@@ -20,8 +20,8 @@ export default defineConfig({
       {
         text: 'DEV',
         items: [
-          { text: '比特币API', link: '比特币开发 API 示例.md' },
-          { text: '比特币生态.md', link: '/比特币技术示例.md' }
+          { text: '比特币API', link: '/比特币开发 API 示例.md' },
+          { text: '比特币生态', link: '/比特币技术示例.md' },
           { text: 'Bitcoin-price', link: '/bitcoin-price.md' }
         ]
       }
