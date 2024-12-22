@@ -26,22 +26,3 @@ async function getLatestBlockInfo() {
 
 getLatestBlockInfo();
 
-## 闪电网络节点管理
-
-使用 lnd 的 gRPC API 来管理闪电网络节点：
-
-import lnService from 'ln-service';
-
-const { lnd } = lnService.authenticatedLndGrpc({
-  cert: 'base64_encoded_tls_cert',
-  macaroon: 'base64_encoded_macaroon',
-  socket: '127.0.0.1:10009',
-});
-
-async function getNodeInfo() {
-  const nodeInfo = await lnService.getWalletInfo({ lnd });
-  console.log('Node public key:', nodeInfo.public_key);
-  console.log('Active channels:', nodeInfo.active_channels_count);
-}
-
-getNodeInfo();

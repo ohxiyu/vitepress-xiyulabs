@@ -20,8 +20,9 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '比特币API', link: '比特币开发 API 示例.md' },
+          { text: '比特币生态.md', link: '/比特币技术示例.md' }
+          { text: 'Bitcoin-price', link: '/bitcoin-price.md' }
         ]
       }
     ],
