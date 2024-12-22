@@ -11,7 +11,7 @@ export default defineConfig({
     // 导航菜单
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Examples', link: '/bitcoin-price.md' },
       { text: 'Blog', link: 'https://xiyu.im' }
     ],
 
