@@ -3,6 +3,11 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "xiyulabs",
   description: "nothing nobody",
+  // 添加 head 配置来设置图标
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
+  ],
   themeConfig: {
     // 站点标题和 Logo
     siteTitle: 'xiyulabs',
