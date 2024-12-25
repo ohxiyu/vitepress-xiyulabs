@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: 关注推特
       link: https://x.com/ohxiyu
+    - theme: alt
+      text: 了解更多
+      link: https://xiyu.im      
 
 features:
   - icon: 🎨
