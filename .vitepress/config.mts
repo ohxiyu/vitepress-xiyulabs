@@ -16,9 +16,9 @@ export default defineConfig({
     // 导航菜单
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/bitcoin-price.md' },
       { text: 'Portfolio', link: '/portfolio' }, // 新增的导航链接
-      { text: 'Blog', link: 'https://xiyu.im' }
+      { text: 'Blog', link: 'https://xiyu.im' },
+      { text: 'Examples', link: '/bitcoin-price.md' }
     ],
 
     // 侧边栏
