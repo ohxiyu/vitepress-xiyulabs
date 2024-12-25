@@ -2,16 +2,19 @@
 layout: home
 
 hero:
-  name: "投资组合"
-  text: "创新项目展示"
-  tagline: 探索我们投资的未来科技
+  name: "稀有实验室 -xiyulabs"
+  text: "投资组合"
+  tagline: 比特币生态探索者
   image:
     src: /portfolio.png
     alt: Portfolio
-  actions:
+ actions:
     - theme: brand
-      text: 联系我们
-      link: mailto:contact@xiyulabs.com
+      text: 订阅频道
+      link: https://t.me/xiyulabs
+    - theme: alt
+      text: 关注推特
+      link: https://x.com/ohxiyu
     - theme: alt
       text: 了解更多
       link: https://xiyu.im
