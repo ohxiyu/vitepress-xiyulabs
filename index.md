@@ -40,3 +40,27 @@ team:
         - icon: twitter
           link: https://x.com/ohxiyu
 ---
+<div class="team-members">
+  <div class="team-member">
+    <img src="/xiyu.png" alt="xiyu" class="member-avatar">
+    <h3>xiyu</h3>
+    <p>创始人</p>
+    <a href="https://x.com/ohxiyu" target="_blank" rel="noopener">Twitter</a>
+  </div>
+</div>
+
+<style>
+.team-members {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+.team-member {
+  text-align: center;
+}
+.member-avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+</style>
