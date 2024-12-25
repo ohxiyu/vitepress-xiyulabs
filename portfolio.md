@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "稀有实验室 -xiyulabs"
+  name: "稀有实验室"
   text: "投资组合"
-  tagline: 比特币生态探索者
+  tagline: xiyulabs --比特币生态探索者
   image:
     src: /portfolio.png
     alt: Portfolio
