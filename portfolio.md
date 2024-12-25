@@ -16,9 +16,12 @@ hero:
       text: 关注推特
       link: https://x.com/ohxiyu
     - theme: alt
-      text: 了解更多
-      link: https://xiyu.im
-
+      text: 阅读博客
+      link: https://xiyu.im    
+    - theme: alt
+      text: 币圈指南
+      link: https://xiyulabs.notion.site/ 
+      
 features:
   - icon: 🪄
     title: $ME (Magic Eden)

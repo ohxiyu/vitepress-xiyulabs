@@ -33,7 +33,8 @@ export default defineConfig({
 
     // 社交链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-github-account' }
+      { icon: 'github', link: 'https://github.com/your-github-account' },
+      { icon: 'twitter', link: 'https://x.com/ohxiyu' }
     ],
 
     // 页脚
