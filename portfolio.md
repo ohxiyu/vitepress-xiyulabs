@@ -8,7 +8,7 @@ hero:
   image:
     src: /portfolio.png
     alt: Portfolio
- actions:
+  actions:
     - theme: brand
       text: 订阅频道
       link: https://t.me/xiyulabs
