@@ -29,4 +29,14 @@ features:
   - icon: 🐱
     title: OP_CAT
     details: 比特币的新操作码提案，通过连接堆栈项来增强比特币脚本的表达能力，为智能合约带来更多可能性。
+
+team:
+  title: 团队介绍
+  members:
+    - avatar: /xiyu.png
+      name: xiyu
+      title: 创始人
+      links:
+        - icon: twitter
+          link: https://x.com/ohxiyu
 ---
