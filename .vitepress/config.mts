@@ -17,13 +17,14 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/bitcoin-price.md' },
+      { text: 'Portfolio', link: '/portfolio' }, // 新增的导航链接
       { text: 'Blog', link: 'https://xiyu.im' }
     ],
 
     // 侧边栏
     sidebar: [
       {
-        text: 'DEV',
+        text: 'examples',
         items: [
           { text: 'Bitcoin-price', link: '/bitcoin-price.md' }
         ]
