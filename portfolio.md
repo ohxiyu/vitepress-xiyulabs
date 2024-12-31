@@ -35,4 +35,10 @@ features:
   - icon: 🪙
     title: $DYDX
     details: 链上合约平台币
+  - icon: 👌
+    title: $OKT
+    details: okxchain平台币
+  - icon: 🐦‍⬛
+    title: $RVN
+    details: Ravencoin is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another.
 ---
