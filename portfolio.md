@@ -32,13 +32,7 @@ features:
   - icon: 🐶
     title: $DOG
     details: 比特币生态系统中基于符文协议的最大市值迷因币。结合了比特币生态和meme文化的趣味性，在runes代币中独树一帜。
-  - icon: 🪙
-    title: $DYDX
-    details: 链上合约平台币
-  - icon: 👌
-    title: $OKT
-    details: okxchain平台币
-  - icon: 🐦‍⬛
-    title: $RVN
-    details: Ravencoin is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another.
+  - icon: 😂
+    title: $solv
+    details: 短线仓位，跌得多的新币概念
 ---
