@@ -25,11 +25,14 @@ hero:
 features:
   - icon: 🎨
     title: 1sat一聪俱乐部
-    details: ordinals\runes\LN\OP_CAT
+    details: 专注比特币生态，ordinals\runes\LN\OP_CAT
+    link: https://1sat.xyz
   - icon: 🪙
     title: dog中文社区
-    details: t.me/dogchinese
+    details: dog最大的中文社区
+    link: t.me/dogchinese
   - icon: ⚡️
-    title: $me holders
-    details: t.me/magicedenholder
+    title: $me 万币群
+    details: me holders
+    link: t.me/me10kclub
 ---
