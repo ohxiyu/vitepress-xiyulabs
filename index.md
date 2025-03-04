@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "稀有实验室"
-  text: "nothing nobody"
-  tagline: Welcome to xiyulabs
+  text: "Welcome to xiyulabs"
+  tagline: xiyulabs（稀有实验室）是一个专注于数字货币与区块链领域的创新团队。我们通过设立基金并投资具有潜力的区块链创业团队，助力推动行业的前沿发展。稀有实验室汇聚了一群富有远见的开拓者，致力于探索区块链技术的无限可能，为数字经济注入活力。“SHORT FIAT, EMBRACE BITCOIN”，我们坚信比特币及区块链技术将引领未来的金融变革。
   image:
     src: /dog.png
     alt: Logo
