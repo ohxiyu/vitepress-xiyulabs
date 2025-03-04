@@ -32,7 +32,7 @@ features:
   - icon: 🐶
     title: $DOG
     details: 比特币生态系统中基于符文协议的最大市值迷因币。结合了比特币生态和meme文化的趣味性，在runes代币中独树一帜。
-  - icon: 😂
-    title: $solv
-    details: 短线仓位，跌得多的新币概念
+  - icon: preTGE
+    title: https://pretge.io
+    details: something 
 ---
