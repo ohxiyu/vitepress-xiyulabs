@@ -4,35 +4,36 @@ layout: home
 hero:
   name: "Welcome to xiyulabs"
   text: "SHORT FIAT, EMBRACE BITCOIN"
-  tagline: 稀有实验室是一个专注于数字货币与区块链领域的创新团队。我们设立基金并投资具有潜力的区块链创业团队，助力推动行业的前沿发展。稀有实验室汇聚了一群富有远见的开拓者，致力于探索区块链技术的无限可能，为数字经济注入活力。
+  tagline: Xiyu Labs is an innovative team focused on the fields of digital currency and blockchain. We establish funds and invest in promising blockchain startup teams to help drive the industry’s cutting-edge development. Xiyu Labs brings together a group of visionary pioneers dedicated to exploring the limitless possibilities of blockchain technology, injecting vitality into the digital economy.
+
   image:
     src: /dog.png
     alt: Logo
   actions:
     - theme: brand
-      text: 订阅频道
+      text: Channel
       link: https://t.me/xiyulabs
     - theme: alt
-      text: 关注推特
+      text: X
       link: https://x.com/ohxiyu
     - theme: alt
-      text: 阅读博客
+      text: Blog
       link: https://xiyu.im    
     - theme: alt
-      text: 币圈指南
+      text: AIO
       link: https://xiyulabs.notion.site/           
 
 features:
   - icon: 🎨
-    title: 1sat一聪俱乐部
+    title: 1sat Club
     details: 专注比特币生态，ordinals\runes\LN\OP_CAT
     link: https://1sat.xyz
   - icon: 🪙
-    title: dog中文社区
-    details: dog最大的中文社区
+    title: dog Chinese Community
+    details: The largest Chinese community of dog
     link: t.me/dogchinese
   - icon: ⚡️
-    title: $me 万币群
+    title: $me 10k Club
     details: me holders
     link: t.me/me10kclub
 ---
