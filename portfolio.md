@@ -34,6 +34,6 @@ features:
     details: 比特币生态系统中基于符文协议的最大市值迷因币。结合了比特币生态和meme文化的趣味性，在runes代币中独树一帜。
   - icon: 🐿️
     title: preTGE
-    details: something
+    details: something great
     link: https://pretge.io
 ---
