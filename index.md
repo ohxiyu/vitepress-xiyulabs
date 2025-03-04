@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Welcome to xiyulabs"
   text: "SHORT FIAT, EMBRACE BITCOIN"
-  tagline: Xiyu Labs is an innovative team focused on the fields of digital currency and blockchain. We establish funds and invest in promising blockchain startup teams to help drive the industry’s cutting-edge development. Xiyu Labs brings together a group of visionary pioneers dedicated to exploring the limitless possibilities of blockchain technology, injecting vitality into the digital economy.
+  tagline: Xiyu Labs is an innovative team focused on the fields of digital currency and blockchain. We establish funds and invest in promising blockchain startup teams to help drive the industry’s cutting-edge development. 
 
   image:
     src: /dog.png
