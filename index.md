@@ -26,7 +26,7 @@ hero:
 features:
   - icon: 🎨
     title: 1sat Club
-    details: 专注比特币生态，ordinals\runes\LN\OP_CAT
+    details: ordinals\runes\LN\OP_CAT
     link: https://1sat.xyz
   - icon: 🪙
     title: dog Chinese Community
