@@ -2,24 +2,24 @@
 layout: home
 
 hero:
-  name: "稀有实验室"
-  text: "投资组合"
-  tagline: xiyulabs --比特币生态探索者
+  name: "Xiyulab"
+  text: "Portfolio"
+  tagline: Xiyu Labs unites pioneers to boost blockchain
   image:
     src: /portfolio.png
     alt: Portfolio
   actions:
     - theme: brand
-      text: 订阅频道
+      text: 订阅频道Channel
       link: https://t.me/xiyulabs
     - theme: alt
-      text: 关注推特
+      text: X
       link: https://x.com/ohxiyu
     - theme: alt
-      text: 阅读博客
+      text: Blog
       link: https://xiyu.im    
     - theme: alt
-      text: 币圈指南
+      text: AIO
       link: https://xiyulabs.notion.site/ 
       
 features:
@@ -32,6 +32,12 @@ features:
   - icon: 🐶
     title: $DOG
     details: 比特币生态系统中基于符文协议的最大市值迷因币。结合了比特币生态和meme文化的趣味性，在runes代币中独树一帜。
+  - icon: 🐿️
+    title: preTGE
+    details: something great
+    link: https://pretge.io
+          
+features:
   - icon: 🐿️
     title: preTGE
     details: something great

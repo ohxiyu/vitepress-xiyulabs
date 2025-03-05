@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "Welcome to xiyulabs"
-  text: "SHORT FIAT, EMBRACE BITCOIN"
-  tagline: Xiyu Labs is an innovative team focused on the fields of digital currency and blockchain. We establish funds and invest in promising blockchain startup teams to help drive the industry’s cutting-edge development. 
+  name: "Xiyulabs"
+  text: "Innovative team focused on the fields of digital currency"
+  tagline: XiyuLabs establish funds and invest in promising blockchain startup teams to help drive the industry’s cutting-edge development. 
 
   image:
     src: /dog.png
@@ -28,7 +28,7 @@ features:
     title: 1sat Club
     details: ordinals\runes\LN\OP_CAT
     link: https://1sat.xyz
-  - icon: 🪙
+  - icon: 🐶
     title: dog Chinese Community
     details: The largest Chinese community of dog
     link: t.me/dogchinese
