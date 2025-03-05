@@ -1,4 +1,4 @@
-# 比特币价格
+# btcprice
 
 <script setup>
 import { ref, onMounted } from 'vue'
@@ -18,12 +18,12 @@ async function fetchBitcoinPrice() {
 
 onMounted(() => {
   fetchBitcoinPrice()
-  setInterval(fetchBitcoinPrice, 60000) // 每分钟更新一次
+  setInterval(fetchBitcoinPrice, 60000) // 
 })
 </script>
 
 <div class="bitcoin-price">
-  <h2>比特币实时价格</h2>
+  <h2>BTC</h2>
   <p>{{ price }} USD</p>
 </div>
 
