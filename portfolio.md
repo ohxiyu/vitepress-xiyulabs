@@ -37,7 +37,7 @@ features:
     details: something great
     link: https://pretge.io
           
-features:
+features2:
   - icon: 🐿️
     title: preTGE
     details: something great
