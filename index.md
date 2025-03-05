@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Xiyulabs"
-  text: "Innovative team focused on the fields of digital currency"
+  text: "Innovative team focus on digital currency"
   tagline: XiyuLabs establish funds and invest in promising blockchain startup teams to help drive the industry’s cutting-edge development. 
 
   image:
